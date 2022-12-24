@@ -12,27 +12,23 @@ After printing theirs and installing it, I felt like some quality of life adjust
 All files can be printed without support. Find the flattest surface and place that on the print bed.
 
  
-
 Post processing: The current design has fairly tight tolerances on the holes for the tophat posts; be sure to use a deburring tool or hobby knife to ensure they are reamed slightly. I’ll loosen the tolerances on the next release. 
 
 
 -- CHANGE LOG --
 
-Edit 24 Dec 24, 12:40 PST
+- Edit 24 Dec 24, 12:40 PST
+  - Added angled LED mounting surfaces
+  - Included standalone LED mounting surfaces for those who have already printed the old version
+  - Added extended connector for split version to help prevent top hat panels from bowing
+  - Enlarged spacter to tophat post holes (6.4mm to 7mm diameter)
 
-Added angled LED mounting surfaces
-Included standalone LED mounting surfaces for those who have already printed the old version
-Added extended connector for split version to help prevent top hat panels from bowing
-Enlarged spacter to tophat post holes (6.4mm to 7mm diameter)
-Edit 21 Dec 22, 19:00 PST
-
-Enlarged/added holes for tophat mount posts
-Added missing chamfer on hinges
-Corrected rearmost centering nub to match the connector position
+- Edit 21 Dec 22, 19:00 PST
+  - Enlarged/added holes for tophat mount posts
+  - Added missing chamfer on hinges
+  - Corrected rearmost centering nub to match the connector position
  
 
 Preliminary BOM
-
-Lots of M3 SCHS screws of varying lengths
-
-Lots of M3 - 5mm dia. x 4mm length heatset inserts
+- Lots of M3 SCHS screws of varying lengths
+- Lots of M3 - 5mm dia. x 4mm length heatset inserts
